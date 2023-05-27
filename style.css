@@ -1,3 +1,39 @@
-ul {
-  background-color: #eeeeeeff;
+.grid-container {
+    display: grid; 
+    grid-template-columns: 1fr;
+    grid-gap: 10px; 
+}
+
+.grid-item {
+    background-color: #daddd4; 
+    padding: 20px; 
+
+}
+
+nav {
+    background-color: #daddd4; 
+
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+nav ul li {
+    display: inline-block;
+  }
+  
+  nav ul li a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-family: Arial, sans-seif 
+  }
+  
+  nav ul li a:hover {
+    background-color: #555;
 }
