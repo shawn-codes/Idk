@@ -1,9 +1,16 @@
 //Adding dark mode functionality 
 
-function myFunction() {
-    var element = document.body; 
-    element.classList.toggle("dark mode"); 
-
-    //scroll to top thingy
-    const toTop = () => window.scrollTo({top:0, behavior: 'smooth'});
+// Function to toggle between light mode and dark mode
+function toggleDarkMode() {
+    const body = document.body;
+    body.classList.toggle('dark-mode');
 }
+
+// Attach event listener to the toggle button
+const toggleButton = document.getElementById('mode-toggle');
+toggleButton.addEventListener('click', toggleDarkMode);
+
+const exploreButton = document.getElementById('exploreButton');
+exploreButton.addEventListener('click', function() {
+    console.log("Button clicked!"); 
+});
