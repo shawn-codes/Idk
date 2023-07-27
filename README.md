@@ -5,13 +5,13 @@ Our group participated in TechTogether New York, which is to empower all people 
 ## Table of contents
 
 - [Overview](#overview)
-- [Inspiration](#Inspiration)
-- [What it does](#Whaitdoes)
-- [How we built it](#Built)
-- [Challenges we ran into](#Challenges)
-- [Accomplishments that we're proud of](#Accomplishments )
-- [What we learned](#Learned)
-- [What's next for Quizzence+](#Next)
+- [Inspiration](#inspiration)
+- [What it does](#what-it-does)
+- [How we built it](#how-we-built-it)
+- [Challenges we ran into](#challenges-we-ran-into)
+- [Accomplishments that we're proud of](#accomplishments-that-were-proud-of)
+- [What we learned](#what-we-learned)
+- [What's next for Quizzence+](#whats-next-for-quizzence)
   <!-- - [Links](#links) -->
 
 ## Overview
