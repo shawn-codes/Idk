@@ -16,7 +16,7 @@ Our group participated in TechTogether New York, which is to empower all people 
 
 ## Overview
 
-### Inspiration
+## Inspiration
 
 
 
