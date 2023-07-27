@@ -6,36 +6,44 @@ Our group participated in TechTogether New York, which is to empower all people 
 
 - [Overview](#overview)
 - [Inspiration](#the-Inspiration)
-- [What it does](#the-What it does)
-- [What It Does](#What it does) 
-- [Screenshot](#screenshot) 
+- [What it does](#What-it-does)
+- [How we built it](#Built)
+- [Challenges we ran into](#Challenges)
+- [Accomplishments that we're proud of](#Accomplishments )
+- [What we learned](#Learned)
+- [What's next for Quizzence+](#Next)
   <!-- - [Links](#links) -->
-  - [Built with](#built-with)
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-
-<!-- ### Screenshot
-
-![](./screenshot.jpg)
+### Inspiration
 
 
-### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)  -->
+### What it does
 
-### Built with
+
+
+### How we built it
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
+
+
+### Challenges we ran into
+
+
+### Accomplishments that we're proud of
+
+
+### What we learned
+
+
+### What's next for Quizzence+ 
+
+
 
 
 
