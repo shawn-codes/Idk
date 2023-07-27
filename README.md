@@ -1,30 +1,37 @@
-# Quizzence
+# Frontend Mentor - Stats preview card component solution
 
-# Inspiration
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-# Helping individuals retain information.
+## Table of contents
 
-# What it does
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  <!-- - [Links](#links) -->
+  - [Built with](#built-with)
 
- An app that challenges your intellect and sharpens your memory.
+## Overview
 
-# How we built it
+### The challenge
 
-Using HTML,CSS and JavaScript
+Users should be able to:
 
-# Challenges we ran into
+- View the optimal layout depending on their device's screen size
 
-Bringing everything together.
+<!-- ### Screenshot
 
-# Accomplishments that we're proud of
+![](./screenshot.jpg)
 
-Git collaboration.
 
-# What we learned
+### Links
 
-Front-end technologies, Figma, Web Design
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)  -->
 
-# What's next for Quizzence+
+### Built with
 
-Improving our project and pushing our application to Mobile.
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
 
