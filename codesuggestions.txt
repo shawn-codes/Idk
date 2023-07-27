@@ -1,0 +1,25 @@
+To fix the flashquestion.js error: 
+
+// if Next Que button clicked
+next_btn.onclick = () => {
+  if (!checkAnswered()) {
+    // If the user hasn't answered the current question, show an alert/message
+    alert("Please select an option before proceeding.");
+    return;
+  }
+
+  // Reset the radio button selection for the next question
+  const options = document.querySelectorAll(".option");
+  options.forEach(option => {
+    option.checked = false;
+  });
+
+  // Rest of the existing code to proceed to the next question
+  if (que_count < questions.length - 1) {
+    que_count++;
+    que_numb++;
+    // ... (rest of the existing code)
+  } else {
+    // ... (existing code to show the result)
+  }
+};
