@@ -1,12 +1,14 @@
-# Frontend Mentor - Stats preview card component solution
+# TechTogether Hackathon, New York, 2023 - Quizzence
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+Our group participated in TechTogether New York, which is to empower all people of marginalized genders by providing opportunities to gain valuable skills and explore tech in an inclusive, inspiring, and engaging environment.
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+- [Inspiration](#the-Inspiration)
+- [What it does](#the-What it does)
+- [What It Does](#What it does) 
+- [Screenshot](#screenshot) 
   <!-- - [Links](#links) -->
   - [Built with](#built-with)
 
@@ -34,4 +36,10 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
+
+
+
+
+
+
 
