@@ -5,8 +5,8 @@ Our group participated in TechTogether New York, which is to empower all people 
 ## Table of contents
 
 - [Overview](#overview)
-- [Inspiration](#the-Inspiration)
-- [What it does](#What-it-does)
+- [Inspiration](#Inspiration)
+- [What it does](#Whaitdoes)
 - [How we built it](#Built)
 - [Challenges we ran into](#Challenges)
 - [Accomplishments that we're proud of](#Accomplishments )
