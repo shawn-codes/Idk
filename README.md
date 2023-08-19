@@ -16,15 +16,15 @@ Our group participated in TechTogether New York, which is to empower all people 
 
 ## Overview
 
-## Inspiration
+## Inspiration 
+Helping individuals retain information.
 
 
+## What It Does
+An app that challenges your intellect and sharpens your memory.
 
-### What it does
 
-
-
-### How we built it
+## How We Built It
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -32,18 +32,18 @@ Our group participated in TechTogether New York, which is to empower all people 
 - CSS Grid
 
 
-### Challenges we ran into
+## Challenges we ran into
+Deciding who was doing what and bringing everything together.
 
 
-### Accomplishments that we're proud of
+## Accomplishments That We're Proud Of
+Building the application and participating in our first Hackathon!
 
+## What We Learned
+Front-end technologies, Figma, and Web Design. 
 
-### What we learned
-
-
-### What's next for Quizzence+ 
-
-
+## What's Next For Quizzence+ 
+Improving our project and pushing our application to Mobile.
 
 
 
