@@ -17,11 +17,11 @@ Our group participated in TechTogether New York, which is to empower all people 
 ## Overview
 
 ## Inspiration 
-Helping individuals retain information.
+Empowering individuals to effectively retain information, enabling them to expand their knowledge base and enhance their intellectual capabilities.
 
 
 ## What It Does
-An app that challenges your intellect and sharpens your memory.
+An app that challenges your intellect and sharpens your memory in a fun and engaging way. Engaging custom challenges designed to expand your mind and enhance your cognitive abilities. Each time you play, you'll find yourself thinking sharper and remembering more, transforming everyday moments into opportunities for growth and learning. Whether you're looking to boost your brainpower or simply enjoy a fun mental workout, this app is your perfect companion. 
 
 
 ## How We Built It
@@ -30,6 +30,7 @@ An app that challenges your intellect and sharpens your memory.
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- JavaScript 
 
 
 ## Challenges we ran into
@@ -40,10 +41,10 @@ Deciding who was doing what and bringing everything together.
 Building the application and participating in our first Hackathon!
 
 ## What We Learned
-Front-end technologies, Figma, and Web Design. 
+Front-end technologies such as HTML, CSS, JavaScript and Design platforms like Figma and Adobe. 
 
 ## What's Next For Quizzence+ 
-Improving our project and pushing our application to Mobile.
+Elevating the quality and functionality of our project while advancing its accessibility through the transition to mobile application development.
 
 
 
